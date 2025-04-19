@@ -1,0 +1,2 @@
+||udemy.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||udemycdn.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
