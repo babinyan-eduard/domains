@@ -1,0 +1,14 @@
+|ai.google.dev^$dnsrewrite=NOERROR;A;dns.coduser.dev
+|alkalicore-pa.clients6.google.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+|alkalimakersuite-pa.clients6.google.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||aistudio.google.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||bard.google.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||deepmind.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||deepmind.google^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||geller-pa.googleapis.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||gemini.google.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||gemini.google^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||generativeai.google^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||generativelanguage.googleapis.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||makersuite.google.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||proactivebackend-pa.googleapis.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
