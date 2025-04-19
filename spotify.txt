@@ -1,7 +1,6 @@
 /_spotify-connect._tcp.local/$dnsrewrite=NOERROR;A;dns.coduser.dev
 |audio-ak-spotify-com.akamaized.net^$dnsrewrite=NOERROR;A;dns.coduser.dev
 |audio4-ak-spotify-com.akamaized.net^$dnsrewrite=NOERROR;A;dns.coduser.dev
-|cdn-spotify-experiments.conductrics.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
 |heads-ak-spotify-com.akamaized.net^$dnsrewrite=NOERROR;A;dns.coduser.dev
 |heads4-ak-spotify-com.akamaized.net^$dnsrewrite=NOERROR;A;dns.coduser.dev
 |spotify.com.edgesuite.net^$dnsrewrite=NOERROR;A;dns.coduser.dev
