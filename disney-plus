@@ -1,0 +1,8 @@
+||disney-plus.net^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||disneyplus.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||disney.playback.edge.bamgrid.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||media.dssott.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||disneynow.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||hotstar.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||star.playback.edge.bamgrid.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
+||starplus.com^$dnsrewrite=NOERROR;A;dns.coduser.dev
